@@ -1,2 +1,3 @@
 # SparseMatrix
-Showing benchmark times of Scikitlearn and Tensorflow on AWS instance
+
+This repository shows usage of Scikit learn and Tensorflow on sparse matrices and their respective benchmark times for them on an individual laptop and an AWS c2.5 large instance(s). 
